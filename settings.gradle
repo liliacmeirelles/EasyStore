@@ -1,0 +1,5 @@
+rootProject.name = 'EasyStore'
+include 'app'
+include 'domain'
+include 'infrastructure'
+
